@@ -102,7 +102,6 @@ export default function Hero() {
                   src="/images/Avatar.png"
                   alt="Tran Anh Tuan"
                   //fill
-                  className="object-cover"
                   width={384}  // 96 * 4
                   height={384} // 96 * 4
                   className="object-cover w-full h-full"
